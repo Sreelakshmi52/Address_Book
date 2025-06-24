@@ -38,18 +38,16 @@ A command-line utility to manage a personal contact list, supporting operations 
 
 - GCC or any C99-compatible compiler  
 - Basic knowledge of command-line interface  
-- Make (optional, for automated builds)  
+  
 
 ---
 
 ## Building
 
 ```bash
-# Compile the project manually
-gcc main.c file.c populate.c -o addressbook
+# Compile the project 
+gcc *.c
 
-# Or use makefile (if provided)
-make
 ```
 
 ---
@@ -59,7 +57,7 @@ make
 Run the compiled program:
 
 ```bash
-./addressbook
+./a.out
 ```
 
 ### Create Contact
@@ -128,6 +126,7 @@ This project is open-source and free to use under the MIT License.
 ## Author
 
 Sreelakshmi Vinod 
+
 Passionate about embedded systems and low level programming
 
 ---
