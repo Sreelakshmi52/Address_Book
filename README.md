@@ -17,7 +17,6 @@ A command-line utility to manage a personal contact list, supporting operations 
 - [Project Structure](#project-structure)  
 - [Error Handling](#error-handling)
 - [Output](#output)
-- [License](#license)  
 - [Author](#author)  
 
 ---
@@ -115,11 +114,6 @@ Lists all contacts with optional sorting:
 
 
 
----
-
-## License
-
-This project is open-source and free to use under the MIT License.
 
 ---
 
